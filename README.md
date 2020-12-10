@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Research interests: Robot navigation, planning, and SLAM
 <!--
 **trunc8/trunc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
