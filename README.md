@@ -18,7 +18,6 @@ I am a senior undergraduate in the Department of Mechanical Engineering at the I
 My research interests lie at the intersection of exploration, optimization, trajectory planning, and SLAM.
 
 Here's how to get in touch with me:  
-<br />
 
 <a href="https://twitter.com/sahasiddharth611">
   <img align="left" alt="Siddharth Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
