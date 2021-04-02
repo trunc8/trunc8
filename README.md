@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 Welcome!
 
 I am a senior undergraduate in the Department of Mechanical Engineering at the Indian Institute of Technology Bombay.  
-My research interests are: Robot navigation, Perception, Planning, and SLAM
+My research interests lie at the intersection of exploration, optimization, trajectory planning, and SLAM.
 
 Here's how to get in touch with me:  
+<br />
+
 <a href="https://twitter.com/sahasiddharth611">
   <img align="left" alt="Siddharth Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sahasiddharth611/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/sahasiddharth611/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
