@@ -1,7 +1,7 @@
 Welcome!
 
-I am a senior undergraduate in the Department of Mechanical Engineering at the Indian Institute of Technology Bombay.  
-My research interests lie at the intersection of exploration, optimization, trajectory planning, and SLAM.
+I graduated from [IIT Bombay](https://www.iitb.ac.in/) in 2021, attaining a Bachelor's (with Honors) in [Mechanical Engineering](https://www.me.iitb.ac.in/) and a Minor degree in the [Department of Computer Science](https://www.cse.iitb.ac.in/).  
+My research interests lie at the intersection of exploration, optimization, and trajectory planning. You can read the research questions that I find very fascinating [here](https://trunc8.github.io).
 
 Here's how to reach me:  
 
