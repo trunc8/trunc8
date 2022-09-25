@@ -19,6 +19,6 @@ Here's how to reach me:
 <br/>
 
 <p width="50%" align="left"> <!--style="max-width:500px;"-->
-  <img src = "https://github-readme-stats.vercel.app/api?username=trunc8&show_icons=true&theme=radical&line_height=27">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trunc8&hide=jupyter notebook,html&theme=tokyonight&count_private=true&include_all_commits=true"> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=trunc8&show_icons=true&theme=radical&line_height=27&count_private=true&include_all_commits=true">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trunc8&hide=jupyter notebook,html&theme=tokyonight"> -->
 </p>
