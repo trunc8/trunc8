@@ -21,7 +21,7 @@ What distinguishes me, however, is my resilience, curiosity, and hacker mindset.
 
 *Hacker mindset*: For creating reports, I prefer TeXstudio over OverLeaf because of speed. But its symbols packages clashed with the powerline symbols on my [Linux rice](https://trunc8.github.io/2021/03/10/first-linux-rice). So I put my TeXstudio inside a Docker environment and faced no problem ever again! I have [blogged](https://trunc8.github.io/2021/05/22/tut-texstudio-docker) about the steps to achieve this.
 
-I leverage all these traits to solve problems. I like challenging problems. What matters the most to me is the quality of the problem; other factors are of less importance. I feel most passionate of all about optimization and planning for legged robots.
+I leverage all these traits to solve problems. What matters the most to me is the quality of the problem; other factors are of less importance. I feel most passionate of all about optimization and planning for legged robots.
 
 My software engineering experience ranges from short-life codes, which won me national and international robotics competitions, to long-life codes, contributing to the mammoth code base at Goldman Sachs and also doing open source at JdeRobot.
 
